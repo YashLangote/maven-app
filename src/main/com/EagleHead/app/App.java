@@ -5,7 +5,7 @@ package com.EagleHead.app;
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World2!";
+    private static final String MESSAGE = "Hello World3 with test!";
 
     public App() {}
 
